@@ -84,27 +84,6 @@ Configuration file: C:/..../resume.io/_config.yml
   Server running... press ctrl-c to stop.
 ```
 
-然后可以访问[http://127.0.0.1:4000/resume.io/](http://127.0.0.1:4000/resume.io/)来访问本地的服务了。
 
 
-## 在线预览
 
-[非你莫属--个人简历模板](http://xiaodan_yu.gitee.io/resume.io)
-
-## 截图预览
-
-![01.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_01.png)
-
-![02.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_02.png)
-
-![03.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_03.png)
-
-![04.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_04.png)
-
-
-## 参考
-
-本简历模板基于[Certy](http://sc.chinaz.com/moban/170307198220.htm)修改而来。保留了所有的样式，基于Jekyll重构了页面框架，并去掉了一些没有必要的内容，整合一页简历。
-
-## 开源协议
-[MIT](https://gitee.com/xiaodan_yu/resume.io/blob/master/LICENSE)
