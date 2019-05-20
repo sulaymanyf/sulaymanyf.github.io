@@ -1,14 +1,14 @@
 # Site settings
-name: 董小姐
-location: 大连
-company: IBM
+name: yefan
+location: 厦门
+company: VV Technology Co., Ltd.
 position: Java开发工程师
-github: https://github.com/
-facebook: https://www.facebook.com/
-phone: 1580424XXXX
-email: xxxx@xxx.com
+github: https://sulaymanyf.github.io/
+facebook: https://www.facebook.com/yefan.sulayman
+phone: xx
+email: yefansulayman@gmail.com
 
-baseurl: "/github.io"
+baseurl: "https://sulaymanyf.github.io/"
 
 permalink: /:year/:month/:day/:title/
 
